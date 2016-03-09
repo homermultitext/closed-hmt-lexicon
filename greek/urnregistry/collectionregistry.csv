@@ -1,4 +1,6 @@
 CollectionId,CollectionUrn,Label
+hmtpersent,urn:cite:hmt:hmtpersent,"Lexical entities representing named entities"
+hmtnestem,urn:cite:hmt:hmtnestem,"Morphological stems for named entities"
 coretests,urn:cite:gmorph:coretests,"Lexicon of stems used in testing core morphological engine in literary Greek orthography"
 lsjpool,urn:cite:gmorph:lsjpool,"Lexicon of stems used in testing core morphological engine in literary Greek orthography"
 lexent,urn:cite:shot:lexent,"Greek lexical entities."
