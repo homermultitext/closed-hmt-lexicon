@@ -1,3 +1,7 @@
 StemUrn,LexicalEntity,Stem,Gender,InflClass,Accent,Tags
-lsjpool.n14584_0,lexent.n14584,boul,fem,h_hs,inflacc,
-lsjpool.n67485_0,lexent.n67485,mhn,fem,is_ios,stempenacc,
+hmtstems.n14584_0,lexent.n14584,boul,fem,h_hs,inflacc,
+hmtstems.n67485_0,lexent.n67485,mhn,fem,is_ios,stempenacc,
+hmtstems.n72734_0,lexent.n72734,oi)wn,masc,os_ou,inflacc,
+hmtstems.n3391_0,lexent.n3391,e(lwri,neut,os_ou,stempenacc,
+hmtstems.n106566_0,lexent.n106566,ui(,masc,os_ou,inflacc,
+hmtstems.n19546_0,lexent.n19546,basil,masc,eus_ews,inflacc,
