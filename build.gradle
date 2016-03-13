@@ -1,0 +1,58 @@
+apply from: "versions.gradle"
+apply plugin: "groovy"
+
+buildscript {
+  apply from: "versions.gradle"
+  repositories {
+    mavenCentral()
+    maven {
+      url "http://beta.hpcc.uh.edu/nexus/content/groups/public"
+    }
+  }
+  dependencies {
+    classpath  group: 'edu.holycross.shot', name: 'greekcommon', version: versionMap['common']
+    classpath  group: 'edu.holycross.shot', name: 'morphology', version: versionMap['morphology']
+    classpath  group: 'edu.holycross.shot', name: 'attic', version: versionMap['attic']
+
+  }
+}
+
+import edu.holycross.shot.orthography.GreekString
+import edu.holycross.shot.greekmorph.*
+import edu.holycross.shot.attic.AtticString
+
+task parseLysias() {
+  description = "Parse a list of words from a file."
+}
+
+parseLysias.doLast {
+  String srcFile = "lysias-1-nouns.txt" //"/vagrant/greeklang/morphology/wordList/lysias-1-nouns.txt"
+  File wordList = new File(srcFile)
+
+  String datasrc = "/vagrant/greeklang/morphology/sampledata/"
+  String dataset = "lysias1"
+
+  // External resourses required by a parser:
+  String fstBinary = "/vagrant/greeklang/morphology/build/${dataset}/greek.a"
+  File urnReg = new File("${datasrc}${dataset}/urnregistry/collectionregistry.csv")
+  UrnManager umgr = new UrnManager(urnReg)
+
+  // The parser:
+  LiteraryGreekParser mp = new LiteraryGreekParser(fstBinary, umgr)
+  System.err.println "Woohoo! Made a parser!"
+
+  wordList.eachLine { greek ->
+    MorphologicalAnalysis morph = mp.parseGreekString(new GreekString(greek,true))
+
+    System.out.print greek
+    def analysisCount = morph.analyses.size()
+    if ( analysisCount < 1) {
+      System.out.println "\tFAIL"
+    } else if (analysisCount == 1) {
+      System.out.pritnln "\t1 analysis."
+    } else {
+      System.out.println "\t${analysisCount} analyses."
+    }
+  }
+
+}
