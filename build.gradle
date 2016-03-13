@@ -21,38 +21,47 @@ import edu.holycross.shot.orthography.GreekString
 import edu.holycross.shot.greekmorph.*
 import edu.holycross.shot.attic.AtticString
 
-task parseLysias() {
+task parseWordList() {
   description = "Parse a list of words from a file."
 }
 
-parseLysias.doLast {
-  String srcFile = "lysias-1-nouns.txt" //"/vagrant/greeklang/morphology/wordList/lysias-1-nouns.txt"
-  File wordList = new File(srcFile)
-
-  String datasrc = "/vagrant/greeklang/morphology/sampledata/"
-  String dataset = "lysias1"
+parseWordList.doLast {
+  String wordList = "testfile.txt"
+  if (project.hasProperty('words')) {
+    wordList = words
+  }
+  File wordsFile = new File(wordList)
 
   // External resourses required by a parser:
-  String fstBinary = "/vagrant/greeklang/morphology/build/${dataset}/greek.a"
-  File urnReg = new File("${datasrc}${dataset}/urnregistry/collectionregistry.csv")
+  String fstBinary = "/vagrant/greeklang/morphology/build/hmt/greek.a"
+  File urnReg = new File("hmt/urnregistry/collectionregistry.csv")
   UrnManager umgr = new UrnManager(urnReg)
 
   // The parser:
   LiteraryGreekParser mp = new LiteraryGreekParser(fstBinary, umgr)
-  System.err.println "Woohoo! Made a parser!"
 
-  wordList.eachLine { greek ->
+  def totalYes = 0
+  def totalNo = 0
+  def totalAnalyses = 0
+
+  wordsFile.eachLine { greek ->
     MorphologicalAnalysis morph = mp.parseGreekString(new GreekString(greek,true))
 
     System.out.print greek
     def analysisCount = morph.analyses.size()
     if ( analysisCount < 1) {
       System.out.println "\tFAIL"
+      totalNo++
     } else if (analysisCount == 1) {
-      System.out.pritnln "\t1 analysis."
+      totalYes++
+      totalAnalyses++
+      System.out.println "\t1 analysis."
     } else {
       System.out.println "\t${analysisCount} analyses."
+      totalYes++
+      totalAnalyses = totalAnalyses + analysisCount
     }
   }
-
+  System.out.println "${wordList.readLines().size()} words analyzed."
+  System.out.println "Successes/failures: ${totalYes} / ${totalNo}, yielding a total of ${totalAnalyses} analyses"
 }
