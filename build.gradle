@@ -34,7 +34,7 @@ parseWordList.doLast {
 
   // External resourses required by a parser:
   String fstBinary = "/vagrant/greeklang/morphology/build/hmt/greek.a"
-  File urnReg = new File("hmt/urnregistry/collectionregistry.csv")
+  File urnReg = new File("/vagrant/hmt-lexicon/hmt/urnregistry/collectionregistry.csv")
   UrnManager umgr = new UrnManager(urnReg)
 
   // The parser:
