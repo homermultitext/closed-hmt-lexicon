@@ -1,0 +1,28 @@
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            The Homer Multitext project lexicon
+tagline:          'Morphologoical datasets for HMT texts'
+description:      ''
+baseurl: '/hmt-lexicon/'
+
+
+
+author:
+  name:           'Neel Smith'
+
+paginate:         5
+
+links:
+  - title: HMT on github
+    url: http://homermultitext.github.io/
+    external: true
+    external: true
+  - title: HMT home page
+    url: http://www.homermultitext.org/
+    external: true
+  - title: Github source for this site
+    url: https://github.com/homermultitext/hmt-lexicon
+    external: true
