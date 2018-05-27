@@ -1,0 +1,3 @@
+# HMT lexicon
+
+The Homer Multitext project's lexicon...
