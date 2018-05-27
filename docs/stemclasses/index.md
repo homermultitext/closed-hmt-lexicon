@@ -5,4 +5,4 @@ title: Stem classes
 
 
 
--  [nouns](../nouns)
+-  [nouns](nouns)
