@@ -1,7 +1,10 @@
-README goes here
+Put 1 or more `.cex` files in this directory with 4 columns of
+data for each indeclinable form, as illustrated below.
+
+Note that since these forms are indeclinable, we (exceptionally) include
+accents as literal parts of the "stem".
 
 Example:
 
-StemUrn#LexicalEntity#Stem#InflClass
-lysias1.n9778_0#lexent.n9778#a)nti/#prepos
-lysias1.n24517_0#lexent.n24517#dia/#prepos
+    StemUrn#LexicalEntity#Stem#InflClass#
+    hmt.indecl1#lexent.n51951#kai/#conjunction#
