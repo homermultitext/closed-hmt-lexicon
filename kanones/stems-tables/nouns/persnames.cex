@@ -1,2 +1,4 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass#Accent#Notes
-hmt.nouns2_1#hmt.pn1#zhnodot#masc#os_ou#stempenacc#In HMT, always urn:cite2:hmt:pers.v1:pers15
+hmt.pnth_1#hmt.pnth1#a<sm>poll#masc#wn_onos#stempenacc#In HMT, always urn:cite2:hmt:pers.v1:pers40
+hmt.pnth_2#hmt.pnth2#poseida#masc#wn_onos#stemultacc#In HMT, always urn:cite2:hmt:pers.v1:pers47
+hmt.pnth_3#hmt.pnth3#qet#fem#is_idos#stemultacc#In HMT, always urn:cite2:hmt:pers.v1:pers19
