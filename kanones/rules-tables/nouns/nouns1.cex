@@ -1,7 +1,7 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 nouninfl.as_ou1#as_ou#a_s#masc#nom#sg
 nouninfl.as_ou2#as_ou#ou#masc#gen#sg
-nouninfl.as_ou3#as_ou#a_|#masc#dat#sg
+nouninfl.as_ou3#as_ou#a_<isub>#masc#dat#sg
 nouninfl.as_ou4#as_ou#an#masc#acc#sg
 nouninfl.as_ou5#as_ou#a_#masc#voc#sg
 
@@ -20,7 +20,7 @@ nouninfl.as_ou15#as_ou#a_#masc#voc#dual
 
 nouninfl.hs_ou1#hs_ou#hs#masc#nom#sg
 nouninfl.hs_ou2#hs_ou#ou#masc#gen#sg
-nouninfl.hs_ou3#hs_ou#h|#masc#dat#sg
+nouninfl.hs_ou3#hs_ou#h<isub>#masc#dat#sg
 nouninfl.hs_ou4#hs_ou#hn#masc#acc#sg
 nouninfl.hs_ou5#hs_ou#h#masc#voc#sg
 
@@ -45,7 +45,7 @@ nouninfl.hs_ou15#hs_ou#a_#masc#voc#dual
 
 nouninfl.a_hs1#a_hs#a^#fem#nom#sg
 nouninfl.a_hs2#a_hs#hs#fem#gen#sg
-nouninfl.a_hs3#a_hs#h|#fem#dat#sg
+nouninfl.a_hs3#a_hs#h<isub>#fem#dat#sg
 nouninfl.a_hs4#a_hs#a^n#fem#acc#sg
 nouninfl.a_hs5#a_hs#a^#fem#voc#sg
 
@@ -63,7 +63,7 @@ nouninfl.a_hs15#a_hs#a_#fem#voc#dual
 
 nouninfl.a_as_long1#a_as_long#a_#fem#nom#sg
 nouninfl.a_as_long2#a_as_long#a_s#fem#gen#sg
-nouninfl.a_as_long3#a_as_long#a_|#fem#dat#sg
+nouninfl.a_as_long3#a_as_long#a_<isub>#fem#dat#sg
 nouninfl.a_as_long4#a_as_long#a_n#fem#acc#sg
 nouninfl.a_as_long5#a_as_long#a_#fem#voc#sg
 
@@ -82,7 +82,7 @@ nouninfl.a_as_long15#a_as_long#a_#fem#voc#dual
 
 nouninfl.a_as_short1#a_as_short#a^#fem#nom#sg
 nouninfl.a_as_short2#a_as_short#a_s#fem#gen#sg
-nouninfl.a_as_short3#a_as_short#a_|#fem#dat#sg
+nouninfl.a_as_short3#a_as_short#a_<isub>#fem#dat#sg
 nouninfl.a_as_short4#a_as_short#a^n#fem#acc#sg
 nouninfl.a_as_short5#a_as_short#a^#fem#voc#sg
 
@@ -100,7 +100,7 @@ nouninfl.a_as_short15#a_as_short#a_#fem#voc#dual
 
 nouninfl.h_hs1#h_hs#h#fem#nom#sg
 nouninfl.h_hs2#h_hs#hs#fem#gen#sg
-nouninfl.h_hs3#h_hs#h|#fem#dat#sg
+nouninfl.h_hs3#h_hs#h<isub>#fem#dat#sg
 nouninfl.h_hs4#h_hs#hn#fem#acc#sg
 nouninfl.h_hs5#h_hs#h#fem#voc#sg
 
