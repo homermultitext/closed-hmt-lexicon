@@ -1,0 +1,11 @@
+hmt.adj_15#lexent.n91039#prwt#os_h_on#stemultacc
+hmt.adj_28#lexent.n4490#all#os_h_on#stemultacc
+hmt.adj_29#lexent.n24261#deuter#os_a_on#stempenacc
+hmt.adj_32#lexent.n66494#mes#os_h_on#stemultacc
+hmt.adj_33#lexent.n90504#proter#os_a_on#stempenacc
+hmt.adj_40#lexent.n31598#e<ro>kast#os_h_on#stempenacc
+hmt.adj_41#lexent.n75552#o<ro>s#os_h_on#stemultacc
+hmt.adj_38#lexent.n43206#e<ro>ter#os_a_on#stempenacc
+hmt.adj_24#lexent.n12210#a<ro>plo#os_h_on#stemultacc
+megistos
+mia

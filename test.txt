@@ -110,6 +110,7 @@ qetis
 qetidos
 qetidi
 qetida
+qetis
 a<sm>xilleus
 a<sm>xillews
 a<sm>xillei
