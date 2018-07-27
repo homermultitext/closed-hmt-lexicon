@@ -1,6 +1,6 @@
 adjinfl.os_a_on1#os_a_on#os#masc#nom#sg#pos
 adjinfl.os_a_on2#os_a_on#ou#masc#gen#sg#pos
-adjinfl.os_a_on3#os_a_on#w|#masc#dat#sg#pos
+adjinfl.os_a_on3#os_a_on#w<isub>#masc#dat#sg#pos
 adjinfl.os_a_on4#os_a_on#on#masc#acc#sg#pos
 adjinfl.os_a_on5#os_a_on#e#masc#voc#sg#pos
 
@@ -18,7 +18,7 @@ adjinfl.os_a_on15#os_a_on#oi#masc#voc#pl#pos
 
 adjinfl.os_h_on1#os_h_on#os#masc#nom#sg#pos
 adjinfl.os_h_on2#os_h_on#ou#masc#gen#sg#pos
-adjinfl.os_h_on3#os_h_on#w|#masc#dat#sg#pos
+adjinfl.os_h_on3#os_h_on#w<isub>#masc#dat#sg#pos
 adjinfl.os_h_on4#os_h_on#on#masc#acc#sg#pos
 adjinfl.os_h_on5#os_h_on#e#masc#voc#sg#pos
 
