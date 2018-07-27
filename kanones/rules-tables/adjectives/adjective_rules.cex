@@ -51,7 +51,7 @@ adjinfl.os_a_on41#os_a_on#a#neut#nom#pl#pos
 adjinfl.os_a_on42#os_a_on#wn#neut#gen#pl#pos
 adjinfl.os_a_on43#os_a_on#ois#neut#dat#pl#pos
 adjinfl.os_a_on44#os_a_on#a#neut#acc#pl#pos
-adjinfl.os_a_on45#os_a_on#a#neut#voc#pl#os
+adjinfl.os_a_on45#os_a_on#a#neut#voc#pl#pos
 
 adjinfl.os_h_on1#os_h_on#os#masc#nom#sg#pos
 adjinfl.os_h_on2#os_h_on#ou#masc#gen#sg#pos
@@ -105,4 +105,4 @@ adjinfl.os_h_on41#os_h_on#a#neut#nom#pl#pos
 adjinfl.os_h_on42#os_h_on#wn#neut#gen#pl#pos
 adjinfl.os_h_on43#os_h_on#ois#neut#dat#pl#pos
 adjinfl.os_h_on44#os_h_on#a#neut#acc#pl#pos
-adjinfl.os_h_on45#os_h_on#a#neut#voc#pl#
+adjinfl.os_h_on45#os_h_on#a#neut#voc#pl#pos
