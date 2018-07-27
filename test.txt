@@ -1934,7 +1934,6 @@ ma<circ>llon
 ou<sm>
 ou<sm>ki/
 a<sm>/y
-au<sm>th<circ><isub>
 au<sm><circ>te
 o<ro>mou<circ>
 ka/tw
@@ -1945,11 +1944,12 @@ e<sm>/nqa
 pw<circ>s
 au<sm>/tws
 pou
+pou<circ>
 e<sm>/cw
 e<sm>nqa/de
 ma/la
 au<sm><circ>tis
 me/xri
 meto/pisqe
-e<sm>ntau=qa
+e<sm>ntau<circ>qa
 pa/lin
