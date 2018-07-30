@@ -1,7 +1,8 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 nouninfl.is_idos1f#is_idos#is#fem#nom#sg
 nouninfl.is_idos2f#is_idos#idos#fem#gen#sg
 nouninfl.is_idos3f#is_idos#idi#fem#dat#sg
-nouninfl.is_idos4f#is_idos#iδα#fem#acc#sg
+nouninfl.is_idos4f#is_idos#ida#fem#acc#sg
 nouninfl.is_idos5f#is_idos#i#fem#voc#sg
 
 nouninfl.is_idos6f#is_idos#ides#fem#nom#pl
