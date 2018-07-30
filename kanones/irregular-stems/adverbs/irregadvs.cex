@@ -5,8 +5,8 @@ hmt.irradv3#lexent.n11433#a<ro>/pac#pos
 hmt.irradv4#lexent.n44099#eu<sm>qu/s#pos
 hmt.irradv5#lexent.n30030#e<sm>ggu/s#pos
 hmt.irradv6#lexent.n77613#panth<isub>#pos
-hmt.irradv7#lexent.n72613#oi<ro>onei#pos
-hmt.irradv8#lexent.n51867#kaqo<ro>lou#pos
+hmt.irradv7#lexent.n72613#oi<ro>onei/#pos
+hmt.irradv8#lexent.n51867#kaqo/lou#pos
 hmt.irradv9#lexent.n45273#eu<sm>te#pos
 hmt.irradv10#lexent.n67281#me/xri#pos
 hmt.irradv11#lexent.n67281#me/xris#pos
@@ -21,8 +21,8 @@ hmt.irradv19#lexent.n6184#a<sm>/mfw#pos
 hmt.irradv20#lexent.n64757#ma/la#pos
 hmt.irradv21#lexent.n64757#ma<circ>llon#comp
 hmt.irradv22#lexent.n75729#ou<sm>#pos
-hmt.irradv23#lexent.n75729#ouk<sm>#pos
-hmt.irradv24#lexent.n75729#oux<sm>#pos
+hmt.irradv23#lexent.n75729#ou<sm>k#pos
+hmt.irradv24#lexent.n75729#ou<sm>x#pos
 hmt.irradv25#lexent.n75729#ou<sm>ki/#pos
 hmt.irradv26#lexent.n18848#a<sm>/y#pos
 hmt.irradv27#lexent.n17568#au<sm><circ>te#pos
@@ -30,7 +30,6 @@ hmt.irradv28#lexent.n73881#o<ro>mou<circ>#pos
 hmt.irradv29#lexent.n56149#ka/tw#pos
 hmt.irradv30#lexent.n75774#ou<sm>de/pote#pos
 hmt.irradv31#lexent.n91921#pw#pos
-hmt.irradv32#lexent.n11433#a<ro>/pac#pos
 hmt.irradv33#lexent.n35541#e<sm>/nqa#pos
 hmt.irradv34#lexent.n92010#pw<circ>s#pos
 hmt.irradv35#lexent.n18047#au<sm>/tws#pos
@@ -39,8 +38,6 @@ hmt.irradv37#lexent.n37720#e<sm>/cw#pos
 hmt.irradv38#lexent.n35542#e<sm>nqa/de#pos
 hmt.irradv39#lexent.n17596#au<sm><circ>tis#pos
 hmt.irradv40#lexent.n75764#ou<sm>de/#pos
-hmt.irradv41#lexent.n67281#me/xri#pos
-hmt.irradv42#lexent.n67281#me/xris#pos
 hmt.irradv43#lexent.n67206#meto/pisqe#pos
 hmt.irradv44#lexent.n36165#e<sm>ntau<circ>qa#pos
 hmt.irradv45#lexent.n76910#pa/lin#pos
