@@ -23,7 +23,7 @@ hmt.irrn20#lexent.n69863#nh<circ>a#fem#acc#sing
 hmt.irrn21m#lexent.n69863#nhu<circ>s#fem#voc#sing
 hmt.irrn22m#lexent.n69863#nh<circ>es#fem#nom#pl
 hmt.irrn23m#lexent.n69863#ne/es#fem#nom#pl
-hmt.irrn24m#lexent.n69863#nh<circ>wn#fem#gen#pl
+hmt.irrn24m#lexent.n69863#nhw<circ>n#fem#gen#pl
 hmt.irrn25m#lexent.n69863#new<circ>n#fem#gen#pl
 hmt.irrn26m#lexent.n69863#nhusi/#fem#dat#pl
 hmt.irrn27m#lexent.n69863#nhusi/n#fem#dat#pl
@@ -40,7 +40,7 @@ hmt.irrn36m#lexent.n8665#a<sm>nh/r#masc#nom#sing
 hmt.irrn37m#lexent.n8665#a<sm>ndro/s#masc#gen#sing
 hmt.irrn38m#lexent.n8665#a<sm>ndri/#masc#dat#sing
 hmt.irrn39m#lexent.n8665#a<sm>ndra/#masc#acc#sing
-hmt.irrn40m#lexent.n8665#a/<sm>ner#masc#voc#sing
+hmt.irrn40m#lexent.n8665#a<sm>/ner#masc#voc#sing
 hmt.irrn41m#lexent.n8665#a<sm>ndre/#masc#nom#dual
 hmt.irrn42m#lexent.n8665#a<sm>ndroi/n#masc#gen#dual
 hmt.irrn43m#lexent.n8665#a<sm>ndroi/n#masc#dat#dual
