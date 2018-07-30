@@ -2,7 +2,7 @@ Rule#LexicalEntity#Form#Gender#Case#Number#Notes
 
 hmt.irrpn1m#hmt.pnth1#zeu/s#masc#nom#sing
 hmt.irrpn2m#hmt.pnth1#dio/s#masc#gen#sing
-hmt.irrpn3m#hmt.pnth1#dii/#masc#dat#sing
+hmt.irrpn3m#hmt.pnth1#dii+/#masc#dat#sing
 hmt.irrpn4m#hmt.pnth1#di/a#masc#acc#sing
 hmt.irrpn5m#hmt.pnth1#zeu<circ>#masc#voc#sing
 hmt.irrpn6m#hmt.pnth1#zhno/s#masc#gen#sing
