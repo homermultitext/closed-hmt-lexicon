@@ -1,3 +1,4 @@
+RuleUrn#InflectionClasses#Ending#Gender#Case#Number
 nouninfl.is_ews1f#is_ews#is#fem#nom#sg
 nouninfl.is_ews2f#is_ews#ews#fem#gen#sg
 nouninfl.is_ews3f#is_ews#ei#fem#dat#sg
