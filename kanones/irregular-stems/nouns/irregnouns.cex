@@ -52,3 +52,50 @@ hmt.irrn48m#lexent.n8665#a<sm>ndra/si#masc#dat#pl
 hmt.irrn49m#lexent.n8665#a<sm>ndra/sin#masc#dat#pl
 hmt.irrn50m#lexent.n8665#a<sm>ndra/s#masc#acc#pl
 hmt.irrn51m#lexent.n8665#a<sm>ndre/s#masc#voc#pl
+hmt.irrn52m#lexent.n28101#dou/ratos#neut#gen#sing
+hmt.irrn53m#lexent.n28101#dou/rati#neut#dat#sing
+hmt.irrn54m#lexent.n28101#dou/rate#neut#nom#dual
+hmt.irrn55m#lexent.n28101#doura/toin#neut#gen#dual
+hmt.irrn56m#lexent.n28101#doura/toin#neut#dat#dual
+hmt.irrn57m#lexent.n28101#dou/rate#neut#acc#dual
+hmt.irrn58m#lexent.n28101#dou/rate#neut#voc#dual
+hmt.irrn59m#lexent.n28101#dou/rata#neut#nom#pl
+hmt.irrn60m#lexent.n28101#doura/twn#neut#gen#pl
+hmt.irrn61m#lexent.n28101#dou/rasi#neut#dat#pl
+hmt.irrn62m#lexent.n28101#dou/rasin#neut#dat#pl
+hmt.irrn63m#lexent.n28101#dou/rata#neut#voc#pl
+hmt.irrn64m#lexent.n28101#dou/ros#neut#gen#sing
+hmt.irrn65m#lexent.n28101#dou/ri#neut#dat#sing
+hmt.irrn66m#lexent.n28101#dou/re#neut#nom#dual
+hmt.irrn67m#lexent.n28101#dou/rooin#neut#gen#dual
+hmt.irrn68m#lexent.n28101#dou/rooin#neut#dat#dual
+hmt.irrn69m#lexent.n28101#dou/re#neut#acc#dual
+hmt.irrn70m#lexent.n28101#dou/re#neut#voc#dual
+hmt.irrn71m#lexent.n28101#dou/rwn#neut#gen#pl
+hmt.irrn72m#lexent.n28101#dou/ressi#neut#dat#pl
+hmt.irrn73m#lexent.n28101#dou/rois#neut#dat#pl
+hmt.irrn74m#lexent.n28101#dou/ra#neut#nom#pl
+hmt.irrn75m#lexent.n28101#dou/ra#neut#acc#pl
+hmt.irrn76m#lexent.n28101#dou/ra#neut#voc#pl
+
+hmt.irrn77m#lexent.n20674#bou<circ>s#fem#nom#sing
+hmt.irrn78m#lexent.n20674#boo/s#fem#gen#sing
+hmt.irrn79m#lexent.n20674#boi/#fem#dat#sing
+hmt.irrn80m#lexent.n20674#bou<circ>n#fem#acc#sing
+hmt.irrn81m#lexent.n20674#bou#fem#voc#sing
+
+hmt.irrn82m#lexent.n20674#bo/e#fem#nom#dual
+hmt.irrn83m#lexent.n20674#booi<circ>n#fem#gen#dual
+hmt.irrn84m#lexent.n20674#booi<circ>n#fem#dat#dual
+hmt.irrn85m#lexent.n20674#bo/e#fem#acc#dual
+hmt.irrn86m#lexent.n20674#bo/e#fem#voc#dual
+
+
+hmt.irrn m#lexent.n20674#bo/es#fem#nom#pl
+hmt.irrn m#lexent.n20674#bow<circ>n#fem#gen#pl
+hmt.irrn m#lexent.n20674#bw<circ>n#fem#gen#pl
+hmt.irrn m#lexent.n20674#bousi/#fem#dat#pl
+hmt.irrn m#lexent.n20674#bousi/n#fem#dat#pl
+hmt.irrn m#lexent.n20674#boe/ssin#fem#dat#pl
+hmt.irrn m#lexent.n20674#bou<circ>s#fem#acc#pl
+hmt.irrn m#lexent.n20674#bo/es#fem#voc#pl
