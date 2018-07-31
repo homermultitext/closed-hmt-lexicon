@@ -1,22 +1,22 @@
 RuleUrn#InflectionClasses#Ending#Gender#Case#Number
-nouninfl.hs_eos1n#hs_eos#os#neut#nom#sg
-nouninfl.hs_eos2n#hs_eos#ous#neut#gen#sg
-nouninfl.hs_eos3n#hs_eos#ei#neut#dat#sg
-nouninfl.hs_eos4n#hs_eos#os#neut#acc#sg
-nouninfl.hs_eos5n#hs_eos#os#neut#voc#sg
+nouninfl.hs_ous1n#hs_ous#os#neut#nom#sg
+nouninfl.hs_ous2n#hs_ous#ous#neut#gen#sg
+nouninfl.hs_ous3n#hs_ous#ei#neut#dat#sg
+nouninfl.hs_ous4n#hs_ous#os#neut#acc#sg
+nouninfl.hs_ous5n#hs_ous#os#neut#voc#sg
 
-nouninfl.hs_eos6n#hs_eos#h#neut#nom#pl
-nouninfl.hs_eos7n#hs_eos#wn#neut#gen#pl
-nouninfl.hs_eos8n#hs_eos#esi#neut#dat#pl
-nouninfl.hs_eos8mn#hs_eos#esin#neut#dat#pl
-nouninfl.hs_eos9n#hs_eos#h#neut#acc#pl
-nouninfl.hs_eos10n#hs_eos#h#neut#voc#pl
+nouninfl.hs_ous6n#hs_ous#h#neut#nom#pl
+nouninfl.hs_ous7n#hs_ous#wn#neut#gen#pl
+nouninfl.hs_ous8n#hs_ous#esi#neut#dat#pl
+nouninfl.hs_ous8mn#hs_ous#esin#neut#dat#pl
+nouninfl.hs_ous9n#hs_ous#h#neut#acc#pl
+nouninfl.hs_ous10n#hs_ous#h#neut#voc#pl
 
-nouninfl.hs_eos11n#hs_eos#ei#neut#nom#dual
-nouninfl.hs_eos12n#hs_eos#oin#neut#gen#dual
-nouninfl.hs_eos13n#hs_eos#oin#neut#dat#dual
-nouninfl.hs_eos14n#hs_eos#ei#neut#acc#dual
-nouninfl.hs_eos15n#hs_eos#ei#neut#voc#dual
+nouninfl.hs_ous11n#hs_ous#ei#neut#nom#dual
+nouninfl.hs_ous12n#hs_ous#oin#neut#gen#dual
+nouninfl.hs_ous13n#hs_ous#oin#neut#dat#dual
+nouninfl.hs_ous14n#hs_ous#ei#neut#acc#dual
+nouninfl.hs_ous15n#hs_ous#ei#neut#voc#dual
 
 
 
