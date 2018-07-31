@@ -12,8 +12,8 @@ nouninfl.is_idos8mn#is_idos#isin#fem#dat#pl
 nouninfl.is_idos9f#is_idos#idas#fem#acc#pl
 nouninfl.is_idos10f#is_idos#ides#fem#voc#pl
 
-nouninfl.is_idos11f#is_idos#e#fem#nom#dual
-nouninfl.is_idos12f#is_idos#oin#fem#gen#dual
-nouninfl.is_idos13f#is_idos#oin#fem#dat#dual
-nouninfl.is_idos14f#is_idos#e#fem#acc#dual
-nouninfl.is_idos15f#is_idos#e#fem#voc#dual
+nouninfl.is_idos11f#is_idos#ide#fem#nom#dual
+nouninfl.is_idos12f#is_idos#idoin#fem#gen#dual
+nouninfl.is_idos13f#is_idos#idoin#fem#dat#dual
+nouninfl.is_idos14f#is_idos#ide#fem#acc#dual
+nouninfl.is_idos15f#is_idos#ide#fem#voc#dual
