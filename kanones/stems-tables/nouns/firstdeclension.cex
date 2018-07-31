@@ -11,7 +11,7 @@ hmt.firstnouns9#lexent.n20278#bol#fem#h_hs#inflacc#
 hmt.firstnouns10#lexent.n20212#bohqei#fem#a_as_short#stemultacc#
 hmt.firstnouns11#lexent.n31631#e<ro>katomb#fem#h_hs#stemultacc#
 hmt.firstnouns12#lexent.n65295#max#fem#h_hs#stemultacc#
-hmt.firstnouns13#lexent.n2764#ai<sm>ti#fem#a_as#stemultacc#
+hmt.firstnouns13#lexent.n2764#ai<sm>ti#fem#a_as_long#stemultacc#
 hmt.firstnouns14#lexent.n106601#u<ro>l#fem#h_hs#stemultacc#
 hmt.firstnouns15#lexent.n22502#gnwm#fem#h_hs#stemultacc#
 hmt.firstnouns16#lexent.n25931#diastol#fem#h_hs#inflacc#
@@ -19,10 +19,10 @@ hmt.firstnouns17#lexent.n112472#fug#fem#h_hs#inflacc#
 hmt.firstnouns18#lexent.n22814#graf#fem#h_hs#inflacc#
 hmt.firstnouns19#lexent.n96792#stigm#fem#h_hs#inflacc#
 hmt.firstnouns20#lexent.n27378#dipl#fem#h_hs#inflacc#
-hmt.firstnouns21#lexent.n57965#klisi#fem#a_as#stemultacc#
-hmt.firstnouns22#lexent.n49463#qur#fem#a_as#stemultacc#
-hmt.firstnouns23#lexent.n19870#bi#fem#a_as#stemultacc#
-hmt.firstnouns24#lexent.n67014#metafor#fem#a_as#inflacc#
+hmt.firstnouns21#lexent.n57965#klisi#fem#a_as_long#stemultacc#
+hmt.firstnouns22#lexent.n49463#qur#fem#a_as_long#stemultacc#
+hmt.firstnouns23#lexent.n19870#bi#fem#a_as_long#stemultacc#
+hmt.firstnouns24#lexent.n67014#metafor#fem#a_as_long#inflacc#
 hmt.firstnouns25#lexent.n112833#fwn#fem#h_hs#inflacc#
 hmt.firstnouns26#lexent.n84248#poiht#masc#hs_ou#inflacc#
-hmt.firstnouns27#lexent.n72120#o<sm>dussei#fem#a_as#stempenacc#
+hmt.firstnouns27#lexent.n72120#o<sm>dussei#fem#a_as_long#stempenacc#
