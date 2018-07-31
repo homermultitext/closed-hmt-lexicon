@@ -16,11 +16,11 @@ hmt.irrn14m#lexent.n23069#gunaici/n#fem#dat#pl
 hmt.irrn15m#lexent.n23069#gunai<circ>kas#fem#acc#pl
 hmt.irrn16m#lexent.n23069#gunai<circ>kes#fem#voc#pl
 
-hmt.irrn17m#lexent.n69863#nhu<circ>s#fem#nom#sing
-hmt.irrn18m#lexent.n69863#nho/s#fem#gen#sing
-hmt.irrn19m#lexent.n69863#nhi/#fem#dat#sing
-hmt.irrn20#lexent.n69863#nh<circ>a#fem#acc#sing
-hmt.irrn21m#lexent.n69863#nhu<circ>s#fem#voc#sing
+hmt.irrn17m#lexent.n69863#nhu<circ>s#fem#nom#sg
+hmt.irrn18m#lexent.n69863#nho/s#fem#gen#sg
+hmt.irrn19m#lexent.n69863#nhi/#fem#dat#sg
+hmt.irrn20#lexent.n69863#nh<circ>a#fem#acc#sg
+hmt.irrn21m#lexent.n69863#nhu<circ>s#fem#voc#sg
 hmt.irrn22m#lexent.n69863#nh<circ>es#fem#nom#pl
 hmt.irrn23m#lexent.n69863#ne/es#fem#nom#pl
 hmt.irrn24m#lexent.n69863#nhw<circ>n#fem#gen#pl
@@ -36,11 +36,11 @@ hmt.irrn33m#lexent.n69863#ne/as#fem#acc#pl
 hmt.irrn34m#lexent.n69863#nh<circ>es#fem#voc#pl
 hmt.irrn35m#lexent.n69863#ne/es#fem#voc#pl
 
-hmt.irrn36m#lexent.n8665#a<sm>nh/r#masc#nom#sing
-hmt.irrn37m#lexent.n8665#a<sm>ndro/s#masc#gen#sing
-hmt.irrn38m#lexent.n8665#a<sm>ndri/#masc#dat#sing
-hmt.irrn39m#lexent.n8665#a<sm>ndra/#masc#acc#sing
-hmt.irrn40m#lexent.n8665#a<sm>/ner#masc#voc#sing
+hmt.irrn36m#lexent.n8665#a<sm>nh/r#masc#nom#sg
+hmt.irrn37m#lexent.n8665#a<sm>ndro/s#masc#gen#sg
+hmt.irrn38m#lexent.n8665#a<sm>ndri/#masc#dat#sg
+hmt.irrn39m#lexent.n8665#a<sm>ndra/#masc#acc#sg
+hmt.irrn40m#lexent.n8665#a<sm>/ner#masc#voc#sg
 hmt.irrn41m#lexent.n8665#a<sm>ndre/#masc#nom#dual
 hmt.irrn42m#lexent.n8665#a<sm>ndroi/n#masc#gen#dual
 hmt.irrn43m#lexent.n8665#a<sm>ndroi/n#masc#dat#dual
@@ -52,8 +52,8 @@ hmt.irrn48m#lexent.n8665#a<sm>ndra/si#masc#dat#pl
 hmt.irrn49m#lexent.n8665#a<sm>ndra/sin#masc#dat#pl
 hmt.irrn50m#lexent.n8665#a<sm>ndra/s#masc#acc#pl
 hmt.irrn51m#lexent.n8665#a<sm>ndre/s#masc#voc#pl
-hmt.irrn52m#lexent.n28101#dou/ratos#neut#gen#sing
-hmt.irrn53m#lexent.n28101#dou/rati#neut#dat#sing
+hmt.irrn52m#lexent.n28101#dou/ratos#neut#gen#sg
+hmt.irrn53m#lexent.n28101#dou/rati#neut#dat#sg
 hmt.irrn54m#lexent.n28101#dou/rate#neut#nom#dual
 hmt.irrn55m#lexent.n28101#doura/toin#neut#gen#dual
 hmt.irrn56m#lexent.n28101#doura/toin#neut#dat#dual
@@ -64,8 +64,8 @@ hmt.irrn60m#lexent.n28101#doura/twn#neut#gen#pl
 hmt.irrn61m#lexent.n28101#dou/rasi#neut#dat#pl
 hmt.irrn62m#lexent.n28101#dou/rasin#neut#dat#pl
 hmt.irrn63m#lexent.n28101#dou/rata#neut#voc#pl
-hmt.irrn64m#lexent.n28101#dou/ros#neut#gen#sing
-hmt.irrn65m#lexent.n28101#dou/ri#neut#dat#sing
+hmt.irrn64m#lexent.n28101#dou/ros#neut#gen#sg
+hmt.irrn65m#lexent.n28101#dou/ri#neut#dat#sg
 hmt.irrn66m#lexent.n28101#dou/re#neut#nom#dual
 hmt.irrn67m#lexent.n28101#dou/rooin#neut#gen#dual
 hmt.irrn68m#lexent.n28101#dou/rooin#neut#dat#dual
@@ -78,24 +78,47 @@ hmt.irrn74m#lexent.n28101#dou/ra#neut#nom#pl
 hmt.irrn75m#lexent.n28101#dou/ra#neut#acc#pl
 hmt.irrn76m#lexent.n28101#dou/ra#neut#voc#pl
 
-hmt.irrn77m#lexent.n20674#bou<circ>s#fem#nom#sing
-hmt.irrn78m#lexent.n20674#boo/s#fem#gen#sing
-hmt.irrn79m#lexent.n20674#boi/#fem#dat#sing
-hmt.irrn80m#lexent.n20674#bou<circ>n#fem#acc#sing
-hmt.irrn81m#lexent.n20674#bou#fem#voc#sing
+hmt.irrn77m#lexent.n20674#bou<circ>s#masc#nom#sg
+hmt.irrn78m#lexent.n20674#boo/s#masc#gen#sg
+hmt.irrn79m#lexent.n20674#boi/#masc#dat#sg
+hmt.irrn80m#lexent.n20674#bou<circ>n#masc#acc#sg
+hmt.irrn81m#lexent.n20674#bou#masc#voc#sg
+hmt.irrn82m#lexent.n20674#bo/e#masc#nom#dual
+hmt.irrn83m#lexent.n20674#booi<circ>n#masc#gen#dual
+hmt.irrn84m#lexent.n20674#booi<circ>n#masc#dat#dual
+hmt.irrn85m#lexent.n20674#bo/e#masc#acc#dual
+hmt.irrn86m#lexent.n20674#bo/e#masc#voc#dual
+hmt.irrn87m#lexent.n20674#bo/es#masc#nom#pl
+hmt.irrn88m#lexent.n20674#bow<circ>n#masc#gen#pl
+hmt.irrn89m#lexent.n20674#bw<circ>n#masc#gen#pl
+hmt.irrn90m#lexent.n20674#bousi/#masc#dat#pl
+hmt.irrn91m#lexent.n20674#bousi/n#masc#dat#pl
+hmt.irrn92m#lexent.n20674#boe/ssin#masc#dat#pl
+hmt.irrn93m#lexent.n20674#bou<circ>s#masc#acc#pl
+hmt.irrn94m#lexent.n20674#bo/es#masc#voc#pl
 
-hmt.irrn82m#lexent.n20674#bo/e#fem#nom#dual
-hmt.irrn83m#lexent.n20674#booi<circ>n#fem#gen#dual
-hmt.irrn84m#lexent.n20674#booi<circ>n#fem#dat#dual
-hmt.irrn85m#lexent.n20674#bo/e#fem#acc#dual
-hmt.irrn86m#lexent.n20674#bo/e#fem#voc#dual
+hmt.irrn95f#lexent.n20674#bou<circ>s#fem#nom#sg
+hmt.irrn96f#lexent.n20674#boo/s#fem#gen#sg
+hmt.irrn97f#lexent.n20674#boi/#fem#dat#sg
+hmt.irrn100f#lexent.n20674#bou<circ>n#fem#acc#sg
+hmt.irrn101f#lexent.n20674#bou#fem#voc#sg
+hmt.irrn102f#lexent.n20674#bo/e#fem#nom#dual
+hmt.irrn103f#lexent.n20674#booi<circ>n#fem#gen#dual
+hmt.irrn104f#lexent.n20674#booi<circ>n#fem#dat#dual
+hmt.irrn105f#lexent.n20674#bo/e#fem#acc#dual
+hmt.irrn106f#lexent.n20674#bo/e#fem#voc#dual
+hmt.irrn107f#lexent.n20674#bo/es#fem#nom#pl
+hmt.irrn108f#lexent.n20674#bow<circ>n#fem#gen#pl
+hmt.irrn109f#lexent.n20674#bw<circ>n#fem#gen#pl
+hmt.irrn110f#lexent.n20674#bousi/#fem#dat#pl
+hmt.irrn111f#lexent.n20674#bousi/n#fem#dat#pl
+hmt.irrn112f#lexent.n20674#boe/ssin#fem#dat#pl
+hmt.irrn113f#lexent.n20674#bou<circ>s#fem#acc#pl
+hmt.irrn114f#lexent.n20674#bo/es#fem#voc#pl
 
-
-hmt.irrn m#lexent.n20674#bo/es#fem#nom#pl
-hmt.irrn m#lexent.n20674#bow<circ>n#fem#gen#pl
-hmt.irrn m#lexent.n20674#bw<circ>n#fem#gen#pl
-hmt.irrn m#lexent.n20674#bousi/#fem#dat#pl
-hmt.irrn m#lexent.n20674#bousi/n#fem#dat#pl
-hmt.irrn m#lexent.n20674#boe/ssin#fem#dat#pl
-hmt.irrn m#lexent.n20674#bou<circ>s#fem#acc#pl
-hmt.irrn m#lexent.n20674#bo/es#fem#voc#pl
+hmt.irrn115m#lexent.n115067#xrw/s#masc#nom#sg
+hmt.irrn116m#lexent.n115067#xroo/s#masc#gen#sg
+hmt.irrn117m#lexent.n115067#xroi/+#masc#dat#sg
+hmt.irrn118m#lexent.n115067#xrow<circ><isub>#masc#dat#sg
+hmt.irrn119m#lexent.n115067#xro/#masc#acc#sg
+hmt.irrn120m#lexent.n115067#xrw/s#masc#voc#sg
