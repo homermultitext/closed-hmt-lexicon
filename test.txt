@@ -666,7 +666,7 @@ poihths
 poihtou
 poihth<isub>
 poihthn
-poihths
+poihta
 poihta
 poihtain
 poihtain
@@ -1201,6 +1201,7 @@ r<ro>hmatoin
 r<ro>hmatoin
 r<ro>hmate
 r<ro>hmate
+r<ro>hmata
 r<ro>hmatwn
 r<ro>hmasi
 r<ro>hmasin
@@ -1210,6 +1211,7 @@ a<sm>spis
 a<sm>spidos
 a<sm>spidi
 a<sm>spida
+a<sm>spi
 a<sm>spide
 a<sm>spidoin
 a<sm>spidoin
