@@ -1,5 +1,7 @@
 StemUrn#LexicalEntity#Stem#Gender#InflClass#Accent#Notes
 hmt.pl_1#hmt.pl1#i<sm>li#fem#os_ou#stempenacc#In HMT, always urn:cite2:hmt:place.v1:place6
 hmt.pl_2#hmt.pl2#o<sm>lump#masc#os_ou#stempenacc#In HMT, always urn:cite2:hmt:place.v1:place45
-hmt.pl_3#hmt.pl3#a<sm>rg#neut#os_eos#stemultacc#In HMT, always urn:cite2:hmt:place.v1:place114
+hmt.pl_3#hmt.pl3#a<sm>rg#neut#hs_eos#stemultacc#In HMT, always urn:cite2:hmt:place.v1:place114
 hmt.pl_4#hmt.pl4#peloponnhs#fem#os_ou#stemultacc#In HMT, always urn:cite2:hmt:place.v1:place36
+hmt.pl_5#hmt.pl5#spart#fem#h_hs#stemultacc#In HMT, always urn:cite2:hmt:place.v1:place218
+hmt.pl_6#hmt.pl6#ludi#fem#a_as_long#stemultacc#In HMT, always urn:cite2:hmt:place.v1:place87
