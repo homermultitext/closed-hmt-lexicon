@@ -12,7 +12,7 @@ resolvers += Resolver.jcenterRepo
 resolvers += Resolver.bintrayRepo("neelsmith", "maven")
 libraryDependencies ++= Seq(
   "org.scalatest" %% "scalatest" % "3.0.1" % "test",
-  "edu.holycross.shot" %% "kanones" % "0.3.0"
+  "edu.holycross.shot" %% "kanones" % "0.4.0"
 )
 
 //tutTargetDirectory := file("docs")
