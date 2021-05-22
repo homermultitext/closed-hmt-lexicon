@@ -1,13 +1,6 @@
 # hmt-lexicon
 
-# What's here
-
-In the `kanones` directory, we are building tables of lexical entities and inflectional rules for building morphological parsers with [kanónes]().
-
-
-## Documentation
-
-See the lexicon web site at <http://homermultitext.github.io/hmt-lexicon/>.
+Building a morphological lexicon for parsing texts in the Homer Mulitext project.
 
 ## Prior work
 
