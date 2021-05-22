@@ -1,2 +1,5 @@
 [deps]
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
+
+[compat]
+PolytonicGreek = "0.12"
