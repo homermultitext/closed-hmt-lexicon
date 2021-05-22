@@ -1,5 +1,5 @@
 ---
-name: New vocabulary item
+name: New vocabulary item in edition
 about: Add new vocabulary item to lexicon
 
 ---
