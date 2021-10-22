@@ -1,10 +1,7 @@
 StemUrn|LexicalEntity|Stem|Gender|InflClass|Accent|
+
 hmtstems.aristarchus|hmtpns.aristarchus|ἀρισταρχ|masculine|os_ou|recessive|
+hmtstems.aristophanes|hmtpns.aristophanes|ἀριστοφαν|masculine|hs_ous|recessive|
+hmtstems.proclus|hmtpns.proclus|προκλ|masculine|os_ou|recessive|
 hmtstems.zenodotus|hmtpns.zenodotus|ζηνοδοτ|masculine|os_ou|recessive|
-
-hmtstems.proclus|hmtpns.proclus|προκλ|masculine|os_ou|recessive
-
-
-
-
-nounstems.n73492|lsj.n73492|ὁμηρ|masculine|os_ou|recessive
+nounstems.n73492|lsj.n73492|ὁμηρ|masculine|os_ou|recessive|

@@ -1,7 +1,19 @@
 StemUrn|LexicalEntity|Stem|InflClass|Accent|
 
 adjstems.n22755|lsj.n22755|γραμματικ|os_h_on|inflectionaccented|
-
-
-
+adjstems.n33822|lsj.n33822|ἑλληνικ|os_h_on|inflectionaccented|
 adjstems.n59748|lsj.n59748|κρατιστ|os_h_on_sup|recessive|
+adjstems.n61056|lsj.n61056|κυρι|os_h_on|recessive|
+adjstems.n61855|lsj.n61855|λαμπρ|os_h_on|inflectionaccented|
+adjstems.n62727|lsj.n62727|λευκ|os_h_on|inflectionaccented|
+adjstems.n71504|lsj.n71504|ξενι|os_h_on|recessive|
+adjstems.n98198|lsj.n98198|συλληπτικ|os_h_on|inflectionaccented|
+adjstems.n105344|lsj.n105344|τριτ|os_h_on|recessive|
+
+
+adjstems.n86277|lsj.n86277|πρεπωδ|hs_es|stemaccented|
+
+
+adjstems.n4256|lsj.n4256|ἁλιπορφυρ|os_h_on|recessive|
+
+adjstems.n85837|lsj.n85837|πορφυρε|os_a_on|recessive|

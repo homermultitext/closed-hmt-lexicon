@@ -2,11 +2,20 @@ StemUrn|LexicalEntity|Stem|Gender|InflClass|Accent|
 
 nounstems.n6382|lsj.n6382|ἀναγραφ|feminine|h_hs|inflectionaccented|
 nounstems.n19972|lsj.n19972|βι|masculine|os_ou|recessive|
+nouns.n22100|lsj.n22100|γ|feminine|h_hs|inflectionaccented|
+nounstems.n24841|lsj.n24841|διαιρεσ|feminine|is_ews|recessive|
+nounstems.n24861|lsj.n24861|διαιτημ|neuter|ma_matos|recessive|
+nounstems.n27352|lsj.n27352|διπλα|feminine|c_kos|recessive|
+nounstems.n27352|lsj.n27352|διπλα|masculine|c_kos|recessive|
 nouns.n27378|lsj.n27378|διπλ|feminine|h_hs|inflectionaccented|
-
-
+nounstems.n46892|lsj.n46892|ἠελι|masculine|os_ou|recessive|
+nounstems.n46892|lsj.n46892|ἡλι|masculine|os_ou|recessive|
+nouns.n48291|lsj.n48291|θε|feminine|os_ou|inflectionaccented|
+nouns.n48291|lsj.n48291|θε|masculine|os_ou|inflectionaccented|
+nounstems.n49203|lsj.n49203|θρον|neuter|os_ou|recessive|
+nouns.n51269|lsj.n51269|ἱστ|masculine|os_ou|inflectionaccented|
+nouns.n56864|lsj.n56864|κερκ|feminine|is_idos|inflectionaccented|
+nouns.n71282|lsj.n71282|νυμφ|feminine|h_hs|recessive|
+nounstems.n71544|lsj.n71544|ξεν|masculine|os_ou|recessive|
+nounstems.n84238|lsj.n84238|ποιη|neuter|ma_matos|recessive|
 nounstems.n114702|lsj.n114702|χρηστομαθι|feminine|a_as_short|recessive|
-
-
-
-nounstems.n84238|lsj.n84238|ποιημ|neuter|a_atos|recessive|
