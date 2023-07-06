@@ -1,7 +1,8 @@
 [deps]
+HmtArchive = "1e7b0059-6550-4515-8382-5d3f2046a0a7"
 Kanones = "107500f9-53d4-4696-8485-0747242ad8bc"
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
 
 [compat]
-Kanones = "0.1"
-PolytonicGreek = "0.13"
+Kanones = "0.18"
+PolytonicGreek = "0.18"
