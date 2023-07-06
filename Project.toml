@@ -4,5 +4,6 @@ Kanones = "107500f9-53d4-4696-8485-0747242ad8bc"
 PolytonicGreek = "72b824a7-2b4a-40fa-944c-ac4f345dc63a"
 
 [compat]
+HmtArchive = "0.14"
 Kanones = "0.18"
 PolytonicGreek = "0.18"
