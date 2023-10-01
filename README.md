@@ -1,4 +1,4 @@
 # hmt-lexicon
 
-Building a morphological lexicon for parsing texts in the Homer Mulitext project.
+This repository is closed.  It has been superseded by [hmt-morphology](https://github.com/homermultitext/hmt-morphology).
 
